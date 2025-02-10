@@ -43,8 +43,11 @@ This dataset provides a structured way to analyze customer behavior, sales trend
 Key Performance Indicators (KPIs):
 
 Sum of Amount: 38K
+
 Sum of Quantity: 387
+
 Sum of Profit: 3358
+
 Sum of AOV (Average Order Value): 7912
 
 **Insights from Dashboard**
