@@ -53,46 +53,46 @@ Sum of AOV (Average Order Value): 7912
 
 1. Profit by Sub-Category:
 
--The highest sales revenue is generated in the "Uttar Pradesh" region.
+**-** The highest sales revenue is generated in the "Uttar Pradesh" region.
 
--Printers contribute the most to profit, followed by Bookcases.
+**-** Printers contribute the most to profit, followed by Bookcases.
 
--Other profitable sub-categories include T-shirts, Sarees, and Phones.
+**-** Other profitable sub-categories include T-shirts, Sarees, and Phones.
 
 2. Sum of Quantity by Category:
 
--Clothing holds the majority of sales volume (59.95%).
+**-** Clothing holds the majority of sales volume (59.95%).
 
--Electronics contributes 22.48% to sales volume.
+**-** Electronics contributes 22.48% to sales volume.
 
--Furniture accounts for 17.57% of the total sales.
+**-** Furniture accounts for 17.57% of the total sales.
 
 3. Sales Distribution by Customer Name:
 
--The top three customers in terms of purchase amount are Hanuman, Madan Mohan, and Lalita.
+**-** The top three customers in terms of purchase amount are Hanuman, Madan Mohan, and Lalita.
 
--Hanuman has the highest purchase amount, followed closely by Madan Mohan.
+**-** Hanuman has the highest purchase amount, followed closely by Madan Mohan.
 
 4. Payment Mode Preferences:
 
--Cash on Delivery (COD) is the most preferred payment method, accounting for 54.26% of transactions.
+**-** Cash on Delivery (COD) is the most preferred payment method, accounting for 54.26% of transactions.
 
--Credit Card and Debit Card payments together account for over 27% of transactions.
+**-** Credit Card and Debit Card payments together account for over 27% of transactions.
 
--UPI and EMI payments contribute to 8.01% and 8.39%, respectively.
+**-** UPI and EMI payments contribute to 8.01% and 8.39%, respectively.
 
 5. Monthly Profit Trends:
 
--Profit is highest in January and September.
+**-** Profit is highest in January and September.
 
--Other months show minimal variations, with profit remaining steady throughout the year.
+**-** Other months show minimal variations, with profit remaining steady throughout the year.
 
 **Conclusion and Recommendations**
 
--Increase Printer Sales: Since printers generate the highest profit, focusing on promotions and discounts for this category could drive higher sales.
+**-** Increase Printer Sales: Since printers generate the highest profit, focusing on promotions and discounts for this category could drive higher sales.
 
--Expand Payment Options: Encourage digital payments by providing cashback offers for UPI, credit, and debit card transactions.
+**-** Expand Payment Options: Encourage digital payments by providing cashback offers for UPI, credit, and debit card transactions.
 
--Customer Retention Strategy: Retarget top customers (Hanuman, Madan Mohan, and Lalita) with personalized offers and discounts.
+**-** Customer Retention Strategy: Retarget top customers (Hanuman, Madan Mohan, and Lalita) with personalized offers and discounts.
 
--Seasonal Promotions: Since profits are highest in January and September, targeted seasonal campaigns during these months could enhance revenue.
+**-** Seasonal Promotions: Since profits are highest in January and September, targeted seasonal campaigns during these months could enhance revenue.
