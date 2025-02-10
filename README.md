@@ -6,7 +6,7 @@ The Madhav Ecommerce Sales Dashboard provides a comprehensive overview of sales 
 
 The dataset consists of two files:
 
-Orders.csv (500 records): Contains details about customer orders.
+**Orders.csv (500 records): Contains details about customer orders.**
 
 Key attributes:
 
@@ -20,7 +20,7 @@ State: State where the order was placed.
 
 City: City where the order was placed.
 
-Details.csv (1500 records): Contains transactional details related to each order.
+**Details.csv (1500 records): Contains transactional details related to each order.**
 
 Key attributes:
 
@@ -38,9 +38,8 @@ Sub-Category: A more detailed classification of products.
 
 PaymentMode: The mode of payment used (e.g., COD, Credit Card, EMI).
 
-This dataset provides a structured way to analyze customer behavior, sales trends, and profit distribution across different categories and regions.
 
-Key Performance Indicators (KPIs):
+**Key Performance Indicators (KPIs)**
 
 Sum of Amount: 38K
 
