@@ -9,21 +9,33 @@ The dataset consists of two files:
 Orders.csv (500 records): Contains details about customer orders.
 
 Key attributes:
+
 Order ID: Unique identifier for each order.
+
 Order Date: The date when the order was placed.
+
 CustomerName: Name of the customer.
+
 State: State where the order was placed.
+
 City: City where the order was placed.
 
 Details.csv (1500 records): Contains transactional details related to each order.
 
 Key attributes:
+
 Order ID: Unique identifier linking to Orders.csv.
+
 Amount: The total amount of the transaction.
+
 Profit: The profit earned from the transaction.
+
 Quantity: Number of items purchased.
+
 Category: The product category (e.g., Electronics, Furniture).
+
 Sub-Category: A more detailed classification of products.
+
 PaymentMode: The mode of payment used (e.g., COD, Credit Card, EMI).
 
 This dataset provides a structured way to analyze customer behavior, sales trends, and profit distribution across different categories and regions.
